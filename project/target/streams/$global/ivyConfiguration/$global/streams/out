@@ -1,3 +1,11 @@
-[0m[[0mdebug[0m] [0mOther repositories:[0m
-[0m[[0mdebug[0m] [0mDefault repositories:[0m
-[0m[[0mdebug[0m] [0mUsing inline dependencies specified in Scala.[0m
+[debug] Other repositories:
+[debug] 	FileRepository(publish-m2-local,FileConfiguration(true,None),Patterns(ivyPatterns=List(), artifactPatterns=List(C:/Users/dengsibao/.m2/repository/[organisation]/[module](_[scalaVersion])(_[sbtVersion])/[revision]/[artifact]-[revision](-[classifier]).[ext]), isMavenCompatible=true, descriptorOptional=false, skipConsistencyCheck=false))
+[debug] Default repositories:
+[debug] 	Raw(ProjectResolver(inter-project, mapped: default#global-plugins;0.0))
+[debug] 	URLRepository(typesafe-ivy-releases,Patterns(ivyPatterns=List(http://repo.typesafe.com/typesafe/ivy-releases/[organisation]/[module]/(scala_[scalaVersion]/)(sbt_[sbtVersion]/)[revision]/[type]s/[artifact](-[classifier]).[ext]), artifactPatterns=List(http://repo.typesafe.com/typesafe/ivy-releases/[organisation]/[module]/(scala_[scalaVersion]/)(sbt_[sbtVersion]/)[revision]/[type]s/[artifact](-[classifier]).[ext]), isMavenCompatible=false, descriptorOptional=false, skipConsistencyCheck=false))
+[debug] 	URLRepository(sbt-plugin-releases,Patterns(ivyPatterns=List(http://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/[organisation]/[module]/(scala_[scalaVersion]/)(sbt_[sbtVersion]/)[revision]/[type]s/[artifact](-[classifier]).[ext]), artifactPatterns=List(http://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/[organisation]/[module]/(scala_[scalaVersion]/)(sbt_[sbtVersion]/)[revision]/[type]s/[artifact](-[classifier]).[ext]), isMavenCompatible=false, descriptorOptional=false, skipConsistencyCheck=false))
+[debug] 	FileRepository(local,FileConfiguration(true,None),Patterns(ivyPatterns=List(${ivy.home}/local/[organisation]/[module]/(scala_[scalaVersion]/)(sbt_[sbtVersion]/)[revision]/[type]s/[artifact](-[classifier]).[ext]), artifactPatterns=List(${ivy.home}/local/[organisation]/[module]/(scala_[scalaVersion]/)(sbt_[sbtVersion]/)[revision]/[type]s/[artifact](-[classifier]).[ext]), isMavenCompatible=false, descriptorOptional=false, skipConsistencyCheck=false))
+[debug] 	URLRepository(my-ivy-proxy-releases,Patterns(ivyPatterns=List(http://183.56.128.185:8081/nexus/content/groups/ivy-releases/[organization]/[module]/(scala_[scalaVersion]/)(sbt_[sbtVersion]/)[revision]/[type]s/[artifact](-[classifier]).[ext]), artifactPatterns=List(http://183.56.128.185:8081/nexus/content/groups/ivy-releases/[organization]/[module]/(scala_[scalaVersion]/)(sbt_[sbtVersion]/)[revision]/[type]s/[artifact](-[classifier]).[ext]), isMavenCompatible=false, descriptorOptional=false, skipConsistencyCheck=false))
+[debug] 	my-maven-proxy-releases: http://183.56.128.185:8081/nexus/content/groups/public/
+[debug] 	Sonatype snapshots: https://oss.sonatype.org/content/repositories/snapshots/
+[debug] Using inline dependencies specified in Scala.
